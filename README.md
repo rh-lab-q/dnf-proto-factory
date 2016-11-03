@@ -1,0 +1,1 @@
+# dnf-proto-factory
